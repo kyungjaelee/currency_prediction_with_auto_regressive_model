@@ -1,1 +1,13 @@
-# currency_prediction_with_auto_regressive_model
+### Dependency on packages
+\* pip3 install numpy pandas scikit-learn python-binance matplotlib
+
+***
+### Binance API
+
+
+
+***
+### 
+
+
+
